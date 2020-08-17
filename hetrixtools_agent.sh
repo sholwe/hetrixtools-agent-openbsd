@@ -21,7 +21,7 @@
 
 ### KNON BUGS: ###
 # Non-reentrant.  Runs once.
-# Network data collection is not written yet
+# Network data collection is not accurate.  It's a run-once after 2 seconds to get an average.  This needs to be rebuilt, but I dislike the originals' logic.
 # Data is all reverse-engineered, so I've mapped, but might have some incorrect info.
 
 ##############
